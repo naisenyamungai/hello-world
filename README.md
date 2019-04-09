@@ -1,6 +1,8 @@
 # Hello-World
 
 ## Authors
+- [Naisenya Mungai](https://github.com/naisenyamungai)
+- [Eric Wanyama](https://github.com/ewanyama2019)
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
 - Add your clickable username here. It should point to your GitHub account. 
 
